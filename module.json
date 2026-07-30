@@ -15,9 +15,9 @@
   "description": "The World of Arden.",
   "download": "",
   "id": "world-of-arden2",
-  "license": "https://github.com/Sayshal/spell-book?tab=MIT-1-ov-file",
-  "manifest": "https://github.com/Sayshal/spell-book/releases/latest/download/module.json",
-  "readme": "https://github.com/Sayshal/spell-book?tab=readme-ov-file",
+  "license": "https://github.com/Meradane/WorldOfArden?tab=MIT-1-ov-file",
+  "manifest": "https://github.com/Meradane/WorldOfArdenk/releases/latest/download/module.json",
+  "readme": "https://github.com/Meradane/WorldOfArden?tab=readme-ov-file",
   "relationships": {
     "systems": [
       {
@@ -32,5 +32,5 @@
   },
   "title": "New World of Arden",
   "url": "https://github.com/Meradane/WorldOfArden",
-  "version": "1.0.0.10"
+  "version": "1.0.0.11"
 }

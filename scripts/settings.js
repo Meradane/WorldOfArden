@@ -1,5 +1,14 @@
 Hooks.once("init", () => {
-  CONFIG.DND5E.languages.coolspeech = "Cool Speech";
-  CONFIG.DND5E.languages.standard.children.supercommon = "Super Common";
-  CONFIG.DND5E.languages.exotic.children.uncommon = "Uncommon";
+  CONFIG.DND5E.languages.standard.children.arden = {
+    label: "Arden",
+    selectable: false,
+    children: {
+      alderian: "Alderian",
+      balenish: "Balenish",
+      eldoran: "Eldoran",
+      nivaren: "Nivaren",
+      troyan: "Troyan",
+      visian: "Visian"
+    }
+  }
 });

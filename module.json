@@ -14,22 +14,24 @@
   },
   "description": "The World of Arden.",
   "download": "",
-  "esmodules": [ "settings.js" ],
-  "id": "world-of-arden2",
+  "esmodules": [ "./scripts/settings.js" ],
+  "id": "world-of-arden",
   "license": "https://github.com/Meradane/WorldOfArden?tab=MIT-1-ov-file",
   "readme": "https://github.com/Meradane/WorldOfArden?tab=readme-ov-file",
   "relationships": {
     "systems": [
       {
+        
+        "id": "dnd5e",
+        "type": "system",
         "compatibility": {
           "minimum": "5.3.0",
-          "verified": "5.3.3"
-        },
-        "id": "dnd5e",
-        "type": "system"
+          "verified": "5.3.3",
+          "maximum": "5.999"
+        }
       }
     ]
   },
-  "title": "New World of Arden",
-  "version": "1.0.0.16"
+  "title": "The World of Arden",
+  "version": "1.0.0.17"
 }

@@ -17,7 +17,6 @@
   "esmodules": [ "settings.js" ],
   "id": "world-of-arden2",
   "license": "https://github.com/Meradane/WorldOfArden?tab=MIT-1-ov-file",
-  "manifest": "https://github.com/Meradane/WorldOfArdenk/releases/latest/download/module.json",
   "readme": "https://github.com/Meradane/WorldOfArden?tab=readme-ov-file",
   "relationships": {
     "systems": [
@@ -32,5 +31,5 @@
     ]
   },
   "title": "New World of Arden",
-  "version": "1.0.0.14"
+  "version": "1.0.0.16"
 }

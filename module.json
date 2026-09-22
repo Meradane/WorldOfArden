@@ -10,7 +10,7 @@
   "changelog": "",
   "compatibility": {
     "minimum": "14",
-    "verified": "14.365"
+    "verified": "14.367"
   },
   "description": "The World of Arden.",
   "download": "",
@@ -26,12 +26,11 @@
         "type": "system",
         "compatibility": {
           "minimum": "5.3.0",
-          "verified": "5.3.3",
-          "maximum": "5.999"
+          "verified": "5.3.3"
         }
       }
     ]
   },
   "title": "The World of Arden",
-  "version": "1.0.0.17"
+  "version": "1.0.0.18"
 }

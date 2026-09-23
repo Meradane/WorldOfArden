@@ -18,6 +18,8 @@
   "id": "world-of-arden",
   "license": "https://github.com/Meradane/WorldOfArden?tab=MIT-1-ov-file",
   "readme": "https://github.com/Meradane/WorldOfArden?tab=readme-ov-file",
+  "manifest": "https://github.com/Meradane/WorldOfArden/releases/latest/download/module.json",
+  "download": "https://github.com/Meradane/WorldOfArden/releases/download/1.0.19/module.zip",
   "relationships": {
     "systems": [
       {
@@ -32,5 +34,5 @@
     ]
   },
   "title": "The World of Arden",
-  "version": "1.0.0.18"
+  "version": "1.0.19"
 }

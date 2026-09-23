@@ -7,6 +7,7 @@ Hooks.once("init", () => {
       balenish: "Balenish",
       eldoran: "Eldoran",
       nivaren: "Nivaren",
+      sestran: "Sestran",
       troyan: "Troyan",
       visian: "Visian"
     }

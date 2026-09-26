@@ -1,75 +1,75 @@
 {
-  "authors": [
-    {
-      "discord": "Meradane",
-      "name": "Meradane",
-      "url": "https://github.com/Meradane/",
-      "flags": {}
-    }
-  ],
-  "compatibility": {
-    "minimum": "14",
-    "verified": "14.368"
-  },
-  "description": "<p>This module contains custom scripts and journals for my campaign world, Arden.</p>",
-  "download": "https://github.com/Meradane/WorldOfArden/releases/download/1.0.23/module.zip",
-  "esmodules": [
-    "scripts/settings.js"
-  ],
-  "id": "world-of-arden",
-  "license": "https://github.com/Meradane/WorldOfArden?tab=MIT-1-ov-file",
-  "readme": "https://github.com/Meradane/WorldOfArden?tab=readme-ov-file",
-  "manifest": "https://github.com/Meradane/WorldOfArden/releases/latest/download/module.json",
-  "relationships": {
-    "systems": [
-      {
-        "id": "dnd5e",
-        "type": "system",
-        "compatibility": {
-          "minimum": "5.3.0",
-          "verified": "6.0.4"
+    "authors": [
+        {
+            "discord": "Meradane",
+            "name": "Meradane",
+            "url": "https://github.com/Meradane/",
+            "flags": {}
         }
-      }
-    ]
-  },
-  "title": "The World of Arden",
-  "version": "1.0.23",
-  "packs": [
-    {
-      "name": "arden-pack-journals",
-      "label": "Journal Entries",
-      "path": "packs/arden-pack-journals",
-      "type": "JournalEntry",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+    ],
+    "compatibility": {
+        "minimum": "14",
+        "verified": "14.368"
     },
-    {
-      "name": "arden-pack-items",
-      "label": "Items",
-      "path": "packs/arden-pack-items",
-      "type": "Item",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
-    }
-  ],
-  "packFolders": [
-    {
-      "name": "The World of Arden",
-      "color": "#3f8230",
-      "sorting": "m",
-      "packs": [
-        "arden-pack-journals",
-        "arden-pack-items"
-      ]
-    }
-  ],
-  "flags": {}
+    "description": "<p>This module contains custom scripts and journals for my campaign world, Arden.</p>",
+    "download": "https://github.com/Meradane/WorldOfArden/releases/download/1.0.23/module.zip",
+    "esmodules": [
+        "scripts/settings.js"
+    ],
+    "id": "world-of-arden",
+    "license": "https://github.com/Meradane/WorldOfArden?tab=MIT-1-ov-file",
+    "readme": "https://github.com/Meradane/WorldOfArden?tab=readme-ov-file",
+    "manifest": "https://github.com/Meradane/WorldOfArden/releases/latest/download/module.json",
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "5.3.0",
+                    "verified": "6.0.4"
+                }
+            }
+        ]
+    },
+    "title": "The World of Arden",
+    "version": "1.0.23",
+    "packs": [
+        {
+            "name": "arden-pack-journals",
+            "label": "Journal Entries",
+            "path": "packs/arden-pack-journals",
+            "type": "JournalEntry",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "flags": {}
+        },
+        {
+            "name": "arden-pack-items",
+            "label": "Items",
+            "path": "packs/arden-pack-items",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "dnd5e",
+            "flags": {}
+        }
+    ],
+    "packFolders": [
+        {
+            "name": "The World of Arden",
+            "color": "#3f8230",
+            "sorting": "a",
+            "packs": [
+                "arden-pack-journals",
+                "arden-pack-items"
+            ]
+        }
+    ],
+    "flags": {}
 }

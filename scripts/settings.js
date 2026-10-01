@@ -6,9 +6,12 @@ Hooks.once("init", () => {
       alderian: "Alderian",
       balenish: "Balenish",
       eldoran: "Eldoran",
+      ellonan: "Ellonan",
       nivaren: "Nivaren",
-      sestran: "Sestran",
+      imryll: "Imryll",
       troyan: "Troyan",
+      urukar: "Urukar",
+      ustravi: "Ustravi",
       visian: "Visian"
     }
   }

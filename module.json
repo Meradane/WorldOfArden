@@ -12,7 +12,7 @@
         "verified": "14.368"
     },
     "description": "<p>This module contains custom scripts and journals for my campaign world, Arden.</p>",
-    "download": "https://github.com/Meradane/WorldOfArden/releases/download/1.0.24/module.zip",
+    "download": "https://github.com/Meradane/WorldOfArden/releases/download/1.0.25/module.zip",
     "esmodules": [
         "scripts/settings.js"
     ],
@@ -33,7 +33,7 @@
         ]
     },
     "title": "The World of Arden",
-    "version": "1.0.24",
+    "version": "1.0.25",
     "packFolders": [
         {
             "name": "The World of Arden",
